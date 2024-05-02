@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.little_kbin_app">
+    package="me.natesanchez.little_kbin_app">
    <application
         android:label="little_kbin_app"
         android:name="${applicationName}"

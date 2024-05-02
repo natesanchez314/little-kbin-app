@@ -1,4 +1,4 @@
-package com.example.little_kbin_app
+package me.natesanchez.little_kbin_app
 
 import io.flutter.embedding.android.FlutterActivity
 

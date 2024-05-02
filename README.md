@@ -1,6 +1,6 @@
 # little_kbin_app
 
-A new Flutter project.
+A small app for Kbin!
 
 ## Getting Started
 
